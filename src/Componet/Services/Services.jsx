@@ -20,7 +20,7 @@ export default function Services() {
     
     <div className='grid md:grid-cols-3 gap-16 mt-5 mb-32 sm:grid-cols-1 m-auto sm:w-[100%] '>
     
-    <div className=" w-[33.3%]  group max-w-sm  flex justify-center items-center flex-col gap-3 bg-black border border-gray-200 rounded-lg group-[]: shadow-sm p-10 sm:w-[90%] m-auto">
+    <div className=" group max-w-sm  flex justify-center items-center flex-col gap-3 bg-black border border-gray-200 rounded-lg group-[]: shadow-sm p-10 sm:w-[90%] m-auto">
           <div className='felx justify-center items-center'>
         
           <div className='group-hover:text-white group-hover:bg-blue-600  group-hover:shadow-[0_0_0_10px_#1e3a8a] transition-all   gap-1 text-4xl text-blue-600 rounded-full p-[20px] w-20 h-20 inline-flex justify-center items-center shadow-[0_0_0_10px_#0078ff] mb-[10px]  duration-1000'>
