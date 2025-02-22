@@ -9,10 +9,10 @@ export default function Port() {
   return (
    <>
 
-   <div className='container mx-auto mt-20'>
+   <div className='container w-[100%] p-7  mx-auto mt-20 '>
 
 
-   <h1 className='font-black text-6xl text-white text-center m-16 p-[3%] '   id='Port'>
+   <h1 className='font-black text-6xl text-white text-center p-[3%] '   id='Port'>
     
     Projects
     <span className='font-black text-blue-600'>.</span>
@@ -25,7 +25,7 @@ export default function Port() {
 
 
 
-   <div className='grid md:grid-cols-3 gap-12 mt-10 mb-24 sm:grid-cols-1 m-auto w-[100%]  '>
+   <div className='grid md:grid-cols-3 gap-12 mt-10 mb-24 sm:grid-cols-1 m-auto  w-[100%]  '>
 
 
 

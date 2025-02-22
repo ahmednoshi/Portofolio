@@ -4,8 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './Componet/Layout/Layout'
-import Home from './Componet/Home/Home'
-import Services from './Componet/Services/Services';
+// import Home from './Componet/Home/Home'
+// import Services from './Componet/Services/Services';
 
 
 
