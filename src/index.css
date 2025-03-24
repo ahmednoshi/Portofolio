@@ -1,0 +1,13 @@
+
+@import "flowbite/src/themes/default";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    border-bottom: 3px solid rgb(255, 255, 255) ;
+    border-radius: 20%;
+    scroll-behavior: smooth;
+}
+
