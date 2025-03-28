@@ -65,12 +65,13 @@ export default function Home() {
 
 
 
-
+<div className='pt-14'>
+  
 <div className="min-h-screen flex items-center justify-center p-8 mb-28" id='Home'>
-  {/* Grid Container */}
+  
   <div className="grid md:grid-cols-2 gap-8 max-w-6xl w-full">
     
-    {/* النص والتفاصيل */}
+    
     <div className="flex flex-col justify-center items-start gap-6 order-1 ">
       <h1 className="text-4xl md:text-6xl font-bold text-white">
         Ahmed Noshy
@@ -103,7 +104,7 @@ export default function Home() {
       </div>
     </div>
       
-      <a href="/public/CV/cv.pdf" download="CV_For_Frontend.pdf" >
+      <a href="public/CV/noshy.pdf" download="cv.pdf" >
       <button className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-800 transition-all duration-200">
         Download CV
       </button>
@@ -119,9 +120,10 @@ export default function Home() {
     </div>
     </div>
 
-    {/* روابط التواصل الاجتماعي */}
+    
    
   </div>
+</div>
 </div>
 
 

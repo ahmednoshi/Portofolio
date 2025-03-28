@@ -11,7 +11,7 @@ export default function Services() {
 <div className='container mx-auto w-[85%] m-auto gap-10 '>
 
 
-<h1 className='font-black text-6xl text-white text-center py-8 pb-8 ' id='Services'>
+<h1 className='font-black text-6xl text-white text-center py-16 pb-8 ' id='Services'>
     
     Services
         <span className='font-black text-blue-600'>.</span>

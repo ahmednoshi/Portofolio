@@ -14,10 +14,10 @@ export default function Port() {
    <>
 
   <div className='w-[90%] m-auto'>
-  <div className='container  p-7  mx-auto mt-20 '>
+  <div className='container  p-3  mx-auto mt-20 '>
 
 
-<h1 className='font-black text-6xl text-white text-center p-[3%] '   id='Port'>
+<h1 className='font-black text-6xl text-white text-center p-16 '   id='Port'>
  
  Projects
  <span className='font-black text-blue-600'>.</span>

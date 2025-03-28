@@ -9,7 +9,7 @@ export default function Skills() {
 
     <>
 
-    <h2 id='Skills' className='font-black text-6xl text-white text-center mb-14 mt-14 p-10'>Skills<span className='font-black text-blue-600'>.</span></h2>
+    <h2 id='Skills' className='font-black text-6xl text-white text-center mb-10 mt-14 py-16'>Skills<span className='font-black text-blue-600'>.</span></h2>
 
 
 
