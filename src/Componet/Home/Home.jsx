@@ -83,7 +83,8 @@ export default function Home() {
       </h2>
       
       <p className="text-[#CCCCCC] text-lg">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem facilis ex quia porro praesentium deserunt.
+       I'm Ahmed Mahmoud, a Frontend Developer with expertise in React.js, Next.js, and Tailwind CSS. I have one year of experience building fast, user-friendly web applications.
+
       </p>
 
 

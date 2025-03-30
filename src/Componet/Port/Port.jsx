@@ -4,6 +4,7 @@ import img2 from '../../../src/assets/bg1.png'
 import img3 from '../../../src/assets/blog.png'
 import img4 from '../../../src/assets/Screenshot (342).png'
 import img5 from '../../../src/assets/Screenshot (340).png'
+import img6 from '../../../src/assets/Screenshot (426).png'
 
 
 
@@ -17,7 +18,7 @@ export default function Port() {
   <div className='container  p-3  mx-auto mt-20 '>
 
 
-<h1 className='font-black text-6xl text-white text-center p-16 '   id='Port'>
+<h1 className='font-black text-6xl text-white text-center p-16  '   id='Port'>
  
  Projects
  <span className='font-black text-blue-600'>.</span>
@@ -30,8 +31,11 @@ export default function Port() {
 
 
 
-<div className='w-[100%] m-auto'>
-<div className='grid md:grid-cols-3 gap-12 mt-10 mb-24 sm:grid-cols-1 m-auto  w-[100%]  '>
+<div className='container mx-auto'>
+
+
+<div className='w-[100%] m-auto p-5'>
+<div className='grid md:grid-cols-3 gap-12 mt-6 mb-24 sm:grid-cols-1 m-auto  w-[100%]  '>
 
 
 
@@ -66,7 +70,7 @@ export default function Port() {
 
 
 
-<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-5">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-2">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
 <a href="https://ahmednoshi.github.io/Pizza-Wep/" className=" mb-4 inline-flex items-center px-3 py-2 text-sm font-black text-center text-[#CCCCCC] bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-950 ">
 Demo
 <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -109,7 +113,7 @@ Demo
 
 
 
-<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-5">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-2">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
 <a href="https://ahmednoshi.github.io/Daniels-Protofolio1/" className=" mb-4 inline-flex items-center px-3 py-2 text-sm font-black text-center text-[#CCCCCC] bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-950 ">
 Demo
 <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -153,7 +157,7 @@ Demo
 
 
 
-<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-5">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-2">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
 <a href="https://ecommerce-freshcart-one.vercel.app/" className=" mb-4 inline-flex items-center px-3 py-2 text-sm font-black text-center text-[#CCCCCC] bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-950 ">
 Demo
 <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -203,7 +207,7 @@ Demo
 
 
 
-<p className="mb-3 font-normal gap-5 flex justify-start items-center text-white p-5">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+<p className="mb-3 font-normal gap-5 flex justify-start items-center text-white p-2">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
 <a href="https://ahmednoshi.github.io/DevFolio/" className=" mb-4 inline-flex items-center px-3 py-2 text-sm font-black text-center text-[#CCCCCC] bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-950 ">
 Demo
 <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -215,6 +219,44 @@ Demo
 
 
 
+
+
+<div className=" hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200  shadow-sm  sm:w-[100%] m-auto">
+<div className='felx justify-center items-center w-full hover:scale-110 transition-all'>
+
+    <img src={img6} alt="" />
+           </div>
+
+
+
+
+
+
+
+<div className='flex gap-2 justify-center items-center mt-8 ' >
+<a href="https://dashboard-047g.onrender.com/" className='text-2xl font-black text-[#CCCCCC]'>
+<h5 classname="mb-2 text-6xl font-black tracking-tight text-gray-100 dark:text-[#CCCCCC] ">Admin Dashboard<span className='text-blue-600 font-bold'>.</span>
+</h5>
+</a>
+</div>
+
+
+       
+      
+
+
+
+
+
+
+<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-2">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+<a href="https://dashboard-047g.onrender.com/" className=" mb-4 inline-flex items-center px-3 py-2 text-sm font-black text-center text-[#CCCCCC] bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-950 ">
+Demo
+<svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+<path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M1 5h12m0 0L9 1m4 4L9 9" />
+</svg>
+</a>
+</div>
 
 
 
@@ -248,7 +290,7 @@ Demo
 
 
 
-<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-5">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+<p className="mb-3 font-normal gap-5 flex justify-start items-center text-[#CCCCCC] p-2">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
 <a href="https://ahmednoshi.github.io/Mealfiy1/" className=" mb-4 inline-flex items-center px-3 py-2 text-sm font-black text-center text-[#CCCCCC] bg-blue-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-950 ">
 Demo
 <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -298,8 +340,17 @@ Demo
 
 
 
+
+
+
+
+
+
+
+
 </div>
 
+</div>
 </div>
 
 
