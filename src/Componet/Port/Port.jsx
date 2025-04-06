@@ -45,7 +45,7 @@ export default function Port() {
 <div className=" hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200 shadow-sm  sm:w-[100%] m-auto">
 <div className='felx justify-center items-center w-full hover:scale-110 transition-all'>
 
-    <img src={img5} alt="" />
+    <img src={img5} alt="" className='rounded-[30px]' />
            </div>
 
 
@@ -88,7 +88,7 @@ Demo
 <div className=" hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200 shadow-sm  sm:w-[100%] m-auto">
 <div className='felx justify-center items-center w-full hover:scale-110 transition-all'>
 
-    <img src={img2} alt="" />
+    <img src={img2} alt="" className='rounded-[30px]' />
            </div>
 
 
@@ -132,7 +132,7 @@ Demo
 <div className=" hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200 shadow-sm  sm:w-[100%] m-auto">
 <div className='felx justify-center items-center w-full hover:scale-110 transition-all'>
 
-    <img src={img4} alt="" />
+    <img src={img4} alt="" className='rounded-[30px]' />
            </div>
 
 
@@ -173,9 +173,9 @@ Demo
 
 
 <div className=" hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200  shadow-sm  sm:w-[100%] m-auto">
-<div className='felx justify-center items-center w-full hover:scale-110 transition-all'>
+<div className='felx justify-center items-center  w-full hover:scale-110 transition-all'>
 
-    <img src={img6} alt="" />
+    <img src={img6} alt="" className='rounded-[30px]' />
            </div>
 
 
@@ -220,7 +220,7 @@ Demo
 <div className="  hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200 shadow-sm  sm:w-[100%] m-auto">
 <div className='felx justify-center items-center w-full  hover:scale-110 transition-all  '>
 
-    <img src={img3} alt="" />
+    <img src={img3} alt="" className='rounded-[30px]'  />
            </div>
 
 
@@ -267,7 +267,7 @@ Demo
 <div className=" hover:scale-110 overflow-hidden  max-w-sm  flex justify-center items-center flex-col rounded-[25%] p-8 bg-black border border-gray-200 hover:border-blue-600 transition-all duration-200  shadow-sm  sm:w-[100%] m-auto">
 <div className='felx justify-center items-center w-full hover:scale-110 transition-all'>
 
-    <img src={img} alt="" />
+    <img src={img} alt="" className='rounded-[30px]' />
            </div>
 
 
