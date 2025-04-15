@@ -7,18 +7,19 @@ import Services from '../Services/Services'
 import Port from '../Port/Port'
 import Contact from '../Contact/Contact'
 import Skills from '../Skills/Skills'
-import Btn from '../Btn/Btn'
+import Scroll from '../Scroll/Scroll'
+
 
 export default function Layout() {
   return (
     <>
     <Navbar/>
     <Home/>
-    <Btn/>
     <Services/>
     <Skills/>
     <Port/>
     <Contact/>
+    <Scroll/>
     <Footer/>
     <Outlet/>
 

@@ -90,22 +90,22 @@ export default function Home() {
 
       <div className="flex flex-col justify-center items-center md:items-start gap-6">
       <div className="flex gap-6">
-        <a href="https://github.com/ahmednoshi" className="text-2xl text-white  hover:text-blue-600 transition-all duration-200">
+        <a href="https://github.com/ahmednoshi" className="text-2xl  text-white   hover:text-blue-600  hover:-translate-y-2 transition-transform duration-300 ease-in-out">
           <i className="fab fa-github"></i>
         </a>
-        <a href="#" className="text-2xl text-white  hover:text-blue-600 transition-all duration-200">
+        <a href="#" className="text-2xl text-white  hover:text-blue-600 hover:-translate-y-2 transition-transform duration-300 ease-in-out">
           <i className="fab fa-instagram"></i>
         </a>
-        <a href="#" className="text-2xl text-white  hover:text-blue-600 transition-all duration-200">
+        <a href="#" className="text-2xl text-white  hover:text-blue-600 hover:-translate-y-2 transition-transform duration-300 ease-in-out">
           <i className="fab fa-linkedin"></i>
         </a>
-        <a href="#" className="text-2xl text-white  hover:text-blue-600 transition-all duration-200">
+        <a href="#" className="text-2xl text-white  hover:text-blue-600 hover:-translate-y-2 transition-transform duration-300 ease-in-out">
           <i className="fab fa-twitter"></i>
         </a>
       </div>
     </div>
       
-      <a href="public/CV/noshy.pdf" download="cv.pdf" >
+      <a href="/CV/noshy.pdf" download="cv.pdf" >
       <button className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-800 transition-all duration-200">
         Download CV
       </button>
